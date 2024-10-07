@@ -7,6 +7,8 @@ learning algorithms, the project aims to provide a reliable pricing model that c
 and real estate professionals in making informed decisions.
 
 Tools and Technologies Used:
-...Programming Language: Python
-...Libraries: Pandas for data manipulation and analysis, NumPy for numerical computations, Scikit-learn for
+
+Programming Language: Python
+
+Libraries: Pandas for data manipulation and analysis, NumPy for numerical computations, Scikit-learn for
 implementing machine learning algorithms, Matplotlib and Seaborn for data visualization.
